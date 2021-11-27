@@ -370,6 +370,7 @@ img {
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
+  box-shadow: 0 -2px 10px rgba(49, 170, 250, 0.37);
 }
 
 .about__description {
