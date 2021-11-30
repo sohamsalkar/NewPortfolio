@@ -161,11 +161,14 @@ img {
 .nav__logo,
 .nav__toggle {
   color: var(--title-color);
+  font-size: 1.25rem;
   font-weight: var(--font-medium);
+  transition: transform 0.5s;
 }
 
 .nav__logo:hover {
   color: var(--first-color);
+  transform: scale(2);
 }
 
 .nav__toggle {
