@@ -488,6 +488,17 @@ img {
   justify-content: space-between;
   margin-bottom: var(--mb-0-5);
 }
+.skills__extra {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.skills__othertitles {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: var(--mb-0-5);
+}
 
 .skills__name {
   font-size: var(--normal-font-size);
